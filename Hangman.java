@@ -68,7 +68,7 @@ public class Hangman{
 	}
     }
     
-    
+   
     public static boolean compare(String g, String w){
 	return g.equals(w);
     }
